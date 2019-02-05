@@ -1,2 +1,1 @@
-# Data_Structures
-This is a C++ program that utilizes templates with different data structures
+# cs36300-fall2018-assignment2
